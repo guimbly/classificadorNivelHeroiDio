@@ -1,5 +1,5 @@
 let heroName = 'Guimbly'
-let heroExp = 0
+let heroExp = 10
 switch(heroExp){
     case heroExp <= 1000:
         console.log("O Herói " + heroName + 'está no nivel Ferro!')
